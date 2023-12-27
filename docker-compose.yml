@@ -1,0 +1,6 @@
+name: whatsapp
+services:
+  ragdoll-whatsapp:
+    ports:
+      - 3000:3000
+    image: ragdoll-whatsapp
